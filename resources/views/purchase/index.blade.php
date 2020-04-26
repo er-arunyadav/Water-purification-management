@@ -19,7 +19,7 @@
                                 <th>Alert Date</th>
                                 <th>Service Date</th>
                                 <th>Status</th>
-                                <th>Action</th>
+                                <th class="noExport">Action</th>
              				</tr>
              			</thead>
              			<tbody>

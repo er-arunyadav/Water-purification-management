@@ -95,7 +95,7 @@
                       <th>Customer name</th>
                       <th>Alert date</th>
                       <th>Service date</th>
-                      <th>Status</th>
+                      <th class="noExport">Status</th>
                       
                     </tr>
                   </thead>

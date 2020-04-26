@@ -13,7 +13,7 @@
              					<th>Company name</th>
              					<th>Mobile no.</th>
              					<th>Address</th>
-             					<th>Action</th>
+             					<th class="noExport">Action</th>
              				</tr>
              			</thead>
              			<tbody>
