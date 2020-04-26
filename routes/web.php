@@ -168,6 +168,20 @@ Route::post('/dashboard/datewise/details',[
 	'uses' => 'DashboardController@datewisefind',
 	'as' => 'dashboard.datewisefind'
 ]);
+// --------------------------Report Route End-----------------------------
+
+
+// Profile Route Start
+
+Route::get('/profile',[
+	'uses' => 'ProfileController@index',
+	'as' => 'profile'
+]);
+
+Route::post('/profile/update/{id}',[
+	'uses' => 'ProfileController@update',
+	'as' => 'profile.update'
+]);
 
 });
 
